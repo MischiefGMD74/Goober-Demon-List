@@ -1,0 +1,28 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggboy",
+    "creators": ["Ggboy"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/N73-39Xicu4?si=CMnj9JgZix-cdty-",
+    "percentToQualify": 62,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Trige",
+            "link": "https://www.youtube.com/watch?v=N73-39Xicu4",
+            "percent": 100,
+            "hz": 480
+        
+        },
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/dExh1YOHiK4?si=3SFFNhhgTeAZ2uKl",
+            "percent": 100,
+            "hz": 240
+        
+        }
+        
+    ]
+
+}
