@@ -1,0 +1,19 @@
+{
+    "id": 4706930,
+    "name": "Supersonic",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha & More"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/KUItyH1A6s4?si=ysYAasSuTfVtF2Im",
+    "percentToQualify": "65",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=Ju7zdkM-6WkRy3Xf",
+            "percent": 84,
+            "hz": 240
+        
+        }
+    ]
+}
