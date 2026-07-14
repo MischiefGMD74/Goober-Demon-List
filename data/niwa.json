@@ -1,0 +1,19 @@
+{
+    "id": 87425029,
+    "name": "niwa",
+    "author": "teno",
+    "creators": ["teno & More"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/r3aezO7Px_0?si=Gz7-ogZf3aI0FydX",
+    "percentToQualify": "70",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "SaebresGMD",
+            "link": "https://youtu.be/HlE0bM-J9s4?si=XbOr40duw6hxf_wV",
+            "percent": 100,
+            "hz": 360
+        
+        }
+    ]
+}
