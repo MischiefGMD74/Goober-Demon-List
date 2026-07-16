@@ -1,0 +1,20 @@
+{
+    "id": 68109632,
+    "name": "Dak",
+    "author": "MazZedy",
+    "creators": ["MazZedy & More"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/UybSoG3TXHA?si=1qaT7m2aK4YMRYCx",
+    "percentToQualify": "65",
+    "password": "Free Copy",
+    "records": [
+         {
+            "user": "Donojboi8",
+            "link": "https://youtu.be/1yMozrDEqbg?si=TvNPDOsFek-5aekV",
+            "percent": 100,
+            "hz": 120
+        
+        }
+        
+    ]
+}
