@@ -1,0 +1,28 @@
+{
+    "id": 40945673,
+    "name": "CraZy",
+    "author": "DavJT",
+    "creators": ["DavJT"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/g_MP6BENHEs?si=prUfml8Mc-M74MXy",
+    "percentToQualify": 75,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "SaebresGMD",
+            "link": "https://youtu.be/uURhdZDXJWU?si=27rO62EfT83Dx0ng",
+            "percent": 100,
+            "hz": 360
+        
+        },
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=wth-qefOnro7ogde",
+            "percent": 100,
+            "hz": 240
+        
+        }
+        
+    ]
+
+}
