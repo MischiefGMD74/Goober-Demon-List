@@ -1,0 +1,28 @@
+{
+    "id": 62857306,
+    "name": "Different Descent",
+    "author": "Danke",
+    "creators": ["Danke & More"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/pIwFmP6Q9l8?si=iON-0xhg2x4Qij3d",
+    "percentToQualify": 75,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=tlP98-D1wOGkp9PO",
+            "percent": 100,
+            "hz": 240
+        
+        },
+        {
+            "user": "SaebresGMD",
+            "link": "https://youtu.be/1yMozrDEqbg?si=tlP98-D1wOGkp9PO",
+            "percent": 100,
+            "hz": 240
+        
+        }
+        
+    ]
+
+}
