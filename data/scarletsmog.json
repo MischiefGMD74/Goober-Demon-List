@@ -1,0 +1,28 @@
+{
+    "id": 67113181,
+    "name": "Scarlet Smog",
+    "author": "ToastLord",
+    "creators": ["ToastLord"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/a7JSbbj_ubA?si=WRh54e4OZQUgufqc",
+    "percentToQualify": 74,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Donojboi8",
+            "link": "https://youtu.be/1yMozrDEqbg?si=y1Hv6A7H1kQPik7A",
+            "percent": 100,
+            "hz": 120
+        
+        },
+        {
+            "user": "Colton60",
+            "link": "https://youtu.be/1yMozrDEqbg?si=y1Hv6A7H1kQPik7A",
+            "percent": 100,
+            "hz": 120
+        
+        }
+        
+    ]
+
+}
