@@ -1,0 +1,19 @@
+{
+    "id": 5310094,
+    "name": "Fairybust",
+    "author": "mkComic",
+    "creators": ["mkComic"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/GB2P3uJ-4jo?si=x4rCPDBAk7ui_0au",
+    "percentToQualify": "73",
+    "password": "123456",
+    "records": [
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/GB2P3uJ-4jo?si=x4rCPDBAk7ui_0au",
+            "percent": 100,
+            "hz": 240
+        
+        }
+    ]
+}
