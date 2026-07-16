@@ -1,0 +1,19 @@
+{
+    "id": 18834999,
+    "name": "Verity",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/iHfh2RDpzno?si=XUTrHoHi9MDihBeK",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=TvNPDOsFek-5aekV",
+            "percent": 100,
+            "hz": 240
+        
+        }
+    ]
+}
