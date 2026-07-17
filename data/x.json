@@ -1,0 +1,26 @@
+{
+    "id": 17235008,
+    "name": "X",
+    "author": "TriAxis",
+    "creators": ["TriAxis"],
+    "verifier": "SaebresGMD",
+    "verification": "https://youtu.be/uY3aNYF6t84?si=qgYhrvTmIn5Jpmz9",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+         {
+            "user": "Donojboi8",
+            "link": "https://youtu.be/1yMozrDEqbg?si=TvNPDOsFek-5aekV",
+            "percent": 100,
+            "hz": 120
+        
+        },
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=TvNPDOsFek-5aekV",
+            "percent": 100,
+            "hz": 120
+        
+        }
+    ]
+}

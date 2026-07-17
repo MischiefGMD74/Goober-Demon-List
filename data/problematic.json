@@ -1,0 +1,19 @@
+{
+    "id": 7116121,
+    "name": "Problematic",
+    "author": "Dhafin",
+    "creators": ["Dhafin"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/YOAftabQ9kc?si=m9n2fVM9mHAYCqUz",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=oZBIzi23Mo865-hz",
+            "percent": 100,
+            "hz": 240
+        
+        }
+    ]
+}
