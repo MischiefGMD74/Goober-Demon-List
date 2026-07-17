@@ -1,0 +1,28 @@
+{
+    "id": 20,
+    "name": "Deadlocked",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/0sNw5L6nKfo?si=BYqpZ9QRhFJrgeWm",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=9kdMysSOdJ2kRV02",
+            "percent": 100,
+            "hz": 120
+        
+        },
+        {
+            "user": "Saebres",
+            "link": "https://youtu.be/1yMozrDEqbg?si=9kdMysSOdJ2kRV02",
+            "percent": 100,
+            "hz": 144
+        
+        }
+        
+    ]
+
+}
