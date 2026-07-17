@@ -1,0 +1,19 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "motleyork",
+    "creators": ["motleyork & ScorchVx"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/vtLGX7XiAUk?si=7yb3wydQhHuyP9-h",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=3UaCVIN7KrgocJFb",
+            "percent": 100,
+            "hz": 240
+        
+        }
+    ]
+}
