@@ -1,0 +1,19 @@
+{
+    "id": 27786218,
+    "name": "Mechanical Showdown",
+    "author": "Tongii",
+    "creators": ["Tongii"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/0ToaRBaaaTg?si=5vBACmjZZwYzmxE6",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+       {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=3UaCVIN7KrgocJFb",
+            "percent": 100,
+            "hz": 240
+        
+        }
+    ]
+}
