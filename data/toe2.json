@@ -1,0 +1,26 @@
+{
+    "id": 18,
+    "name": "Theory of Everything 2",
+    "author": "RobTop",
+    "creators": ["RobTop"],
+    "verifier": "Donojboi8",
+    "verification": "https://youtu.be/tNkhLo3cTzM?si=2jpxNEGi-pK9f9qZ",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=3UaCVIN7KrgocJFb",
+            "percent": 100,
+            "hz": 240
+        
+        },
+        {
+            "user": "SaebresGMD",
+            "link": "https://youtu.be/1yMozrDEqbg?si=3UaCVIN7KrgocJFb",
+            "percent": 100,
+            "hz": 240
+        
+        }
+    ]
+}
